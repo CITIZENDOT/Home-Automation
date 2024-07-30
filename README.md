@@ -6,9 +6,6 @@ This project demonstrates an approach to control Real home appliances via extern
 
 ![Basic Blueprint](Architecture.png)
 
-### Demonstration
-
-[![Video Demo](Thumbnail.png)](https://youtu.be/XLCf1JYudgI "Video Demo")
 
 #### Related other projects & Final thoughts
 
